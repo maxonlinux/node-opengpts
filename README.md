@@ -7,7 +7,7 @@
 6. Use ```npm run build``` and then ```npm run start``` to run in production mode. You can also install ```pm2``` so you can set up autostart and some other cool features (pls see pm2 docs here: https://pm2.keymetrics.io/docs/usage/quick-start/)
    
 ### To Do:
-- [x] Ability to send prompt and get a response
+- [x] Ability to send prompts and get a responses
 - [x] Conversation history (interactive communication with model)
 - [ ] Authentication and authorization
 - [ ] User accounts
