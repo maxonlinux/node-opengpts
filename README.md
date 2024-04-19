@@ -1,3 +1,6 @@
+### ⚠️ DISCONTINUED due to broken AI provider
+Interaction with the service provider's endpoints has been discontinued due to additional security measures that restrict interaction not originating from their domain.
+
 ### To Do:
 - [x] Ability to send prompts and get responses
 - [x] Conversation history (interactive communication with model)
